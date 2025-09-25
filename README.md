@@ -1,6 +1,17 @@
 ## Olá! Me chamo Túlio Rodrigues 👋
 
+## 🎓 Sobre mim  
+Sou estudante do **4º período de Análise e Desenvolvimento de Sistemas** na Universidade Maurício de Nassau.  
+Tenho interesse em desenvolvimento de software e tecnologia, sempre buscando aprender cada vez mais e aplicar meus conhecimentos em projetos práticos.  
 
+## 💻 Habilidades  
+- Desenvolvimento de sites com **HTML, CSS e JavaScript**  
+- Estou me especializando em **Python**, com foco em otimização de tarefas  
+- Conhecimentos em **bancos de dados relacionais**, **redes de computadores** e **análise de sistemas**  
+- Sou focado em **resolução de problemas** e em criar soluções eficientes  
+
+## 🚀 Objetivos  
+Estou em constante aprendizado e aberto a novos desafios na área de **tecnologia e desenvolvimento**, com foco em crescer como desenvolvedor e contribuir em projetos reais.
 
 
 
@@ -11,6 +22,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TulioRodrigues-web)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tulior.s/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%BAlio-rodrigues-9508882bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuliorodrigues609@gmail.com)
 
 
 
@@ -63,14 +75,6 @@
 
 </div>
 
-
-# Um pouco sobre mim✨
-
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Aperfeiçoando: Python e Django 
-- 🎮 Gamer
-- Foco em Resolução de Problemas
-- 📫
 
   
 
