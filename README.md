@@ -4,11 +4,23 @@
 Sou estudante do **4º período de Análise e Desenvolvimento de Sistemas** na Universidade Maurício de Nassau.  
 Tenho interesse em desenvolvimento de software e tecnologia, sempre buscando aprender cada vez mais e aplicar meus conhecimentos em projetos práticos.  
 
-## 💻 Habilidades  
+## 💻 Habilidades  Técnicas 
 - Desenvolvimento de sites com **HTML, CSS e JavaScript**  
 - Estou me especializando em **Python**, com foco em otimização de tarefas  
 - Conhecimentos em **bancos de dados relacionais**, **redes de computadores** e **análise de sistemas**  
-- Sou focado em **resolução de problemas** e em criar soluções eficientes  
+- Sou focado em **resolução de problemas** e em criar soluções eficientes
+
+## 🌱 Soft Skills
+
+- Comunicação eficaz – consigo transmitir ideias de forma clara e objetiva
+
+- Trabalho em equipe – colaborativo e aberto a feedbacks
+
+- Organização e gestão de tempo – priorizo tarefas e cumprimento de prazos
+
+- Adaptabilidade – aprendo rápido e me ajusto a novas tecnologias e desafios
+
+- Pensamento crítico – analiso problemas e proponho soluções criativas  
 
 ## 🚀 Objetivos  
 Estou em constante aprendizado e aberto a novos desafios na área de **tecnologia e desenvolvimento**, com foco em crescer como desenvolvedor e contribuir em projetos reais.
