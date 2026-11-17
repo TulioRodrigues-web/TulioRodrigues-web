@@ -1,95 +1,160 @@
-## Olá! Me chamo Túlio Rodrigues 👋
 
-## 🎓 Sobre mim  
-Sou estudante do **4º período de Análise e Desenvolvimento de Sistemas** na Universidade Maurício de Nassau.  
-Tenho interesse em desenvolvimento de software e tecnologia, sempre buscando aprender cada vez mais e aplicar meus conhecimentos em projetos práticos.  
-
-## 💻 Habilidades  Técnicas 
-- Desenvolvimento de sites com **HTML, CSS e JavaScript**  
-- Estou me especializando em **Python**, com foco em otimização de tarefas  
-- Conhecimentos em **bancos de dados relacionais**, **redes de computadores** e **análise de sistemas**  
-- Sou focado em **resolução de problemas** e em criar soluções eficientes
-
-## 🌱 Soft Skills
-
-- Comunicação eficaz – consigo transmitir ideias de forma clara e objetiva
-
-- Trabalho em equipe – colaborativo e aberto a feedbacks
-
-- Organização e gestão de tempo – priorizo tarefas e cumprimento de prazos
-
-- Adaptabilidade – aprendo rápido e me ajusto a novas tecnologias e desafios
-
-- Pensamento crítico – analiso problemas e proponho soluções criativas  
-
-## 🚀 Objetivos  
-Estou em constante aprendizado e aberto a novos desafios na área de **tecnologia e desenvolvimento**, com foco em crescer como desenvolvedor e contribuir em projetos reais.
-
-
-
-
-## 🌐 Conecte-se comigo:
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TulioRodrigues-web)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tulior.s/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%BAlio-rodrigues-9508882bb/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuliorodrigues609@gmail.com)
 
+# 👋 Olá, eu sou Túlio Rodrigues!
 
+### 💻 Desenvolvedor Back-end em formação | Java • Python • Spring Boot
+
+🎓 Análise e Desenvolvimento de Sistemas — UNINASSAU  
+📍 Pernambuco, Brasil  
+🚀 Desenvolvendo soluções e evoluindo constantemente
 
 </div>
 
 ---
 
-## 📊 Estatísticas:
-<div align="center">
+## 👨‍💻 Sobre mim
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TulioRodrigues-web&theme=radical)](https://github.com/TulioRodrigues-web)  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com as disciplinas acadêmicas concluídas na Universidade Maurício de Nassau (UNINASSAU), em processo de diplomação.
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TulioRodrigues-web&theme=radical)](https://github.com/TulioRodrigues-web)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TulioRodrigues-web&theme=radical)](https://github.com/TulioRodrigues-web)  
+Tenho interesse em **desenvolvimento de software, engenharia de sistemas e tecnologias Back-end**.
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TulioRodrigues-web&theme=radical)](https://github.com/TulioRodrigues-web)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TulioRodrigues-web&theme=radical&utcOffset=3)](https://github.com/TulioRodrigues-web)
+Possuo experiência prática no desenvolvimento de aplicações web, sistemas de gerenciamento, integração com bancos de dados e automação de processos administrativos.
 
-</div>
+Atualmente, estou aprofundando meus conhecimentos em **Java, Spring Boot, Python, APIs REST e arquitetura de software**, com foco na construção de aplicações seguras, eficientes e escaláveis.
 
+> 💡 Acredito que a tecnologia deve transformar problemas reais em soluções simples, inteligentes e funcionais.
 
 ---
 
-## 💻 Tecnologias que uso no dia a dia:
-<div align="center"><br>
+## 🛠️ Tecnologias e ferramentas
 
-<img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+### 💻 Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Back-end e bancos de dados
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### 🔧 Ferramentas e plataformas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Áreas de atuação e conhecimento
+
+- Desenvolvimento de aplicações web
+- Desenvolvimento Back-end com Java e Spring Boot
+- Programação com Python
+- Modelagem e gerenciamento de bancos de dados
+- Desenvolvimento e integração de APIs REST
+- Autenticação e controle de acesso
+- Automação de processos administrativos
+- Desenvolvimento de interfaces responsivas
+- Fundamentos de UI/UX
+- Versionamento de código com Git e GitHub
+
+---
+
+## 📂 Experiência com projetos
+
+### 🏢 Sistemas de gestão
+
+Desenvolvimento de soluções voltadas ao gerenciamento de informações e à otimização de processos empresariais.
+
+**Funcionalidades trabalhadas:**
+
+- Gerenciamento de funcionários e registros
+- Controle de estoque e movimentações
+- Autenticação de usuários
+- Gerenciamento de permissões
+- Integração com bancos de dados
+- Histórico de operações
+- Interfaces responsivas
+
+### 🌐 Aplicações web
+
+Desenvolvimento de interfaces utilizando HTML, CSS e JavaScript, com foco em usabilidade, desempenho e organização do código.
+
+### ☕ Aplicações Back-end
+
+Desenvolvimento e estudo de aplicações com Java e Spring Boot, explorando arquitetura em camadas, persistência de dados, APIs REST e segurança.
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+☕ Java e Spring Boot
+🐍 Python
+🔗 APIs REST
+🗄️ Banco de dados e SQL
+🔐 Segurança de aplicações
+🏗️ Arquitetura de software
+📘 TypeScript
+🧪 Testes automatizados
+```
 
 
-<img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+## 🤝 Competências profissionais
 
-<img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+- Comunicação e trabalho em equipe
+- Organização e gestão de tempo
+- Pensamento crítico e analítico
+- Resolução de problemas
+- Adaptabilidade
+- Atenção aos detalhes
+- Aprendizado contínuo
+- Proatividade
 
+---
 
-<img alt="ionic" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+## 🎯 Objetivos profissionais
 
+Meu objetivo é construir uma carreira sólida na área de **Desenvolvimento de Software**, com especialização em **Back-end**.
 
-<img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+Busco oportunidades para aplicar meus conhecimentos, contribuir com projetos reais e evoluir tecnicamente em ambientes colaborativos.
 
+Tenho interesse especial em:
 
-<img alt="Python"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- Desenvolvimento Back-end
+- Engenharia de Software
+- Desenvolvimento de Sistemas
+- APIs e integrações
+- Arquitetura e segurança de aplicações
 
+---
 
-<img alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-          
-          
-          
-          
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-TulioRodrigues--web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TulioRodrigues-web)
+
+[![Email](https://img.shields.io/badge/Email-Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuliorodrigues609@gmail.com)
 
 </div>
 
+---
 
-  
+<div align="center">
 
+### 🚀 Sempre aprendendo, construindo e evoluindo.
 
+**"Transformando conhecimento em soluções."**
 
-
+</div>
